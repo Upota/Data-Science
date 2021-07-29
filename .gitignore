@@ -3,3 +3,4 @@ __MACOSX
 __pycache__
 .vscode
 .ok_storage*
+.ipynb_checkpoints
