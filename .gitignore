@@ -1,0 +1,5 @@
+__MACOSX
+*.zip
+__pycache__
+.vscode
+.ok_storage*
